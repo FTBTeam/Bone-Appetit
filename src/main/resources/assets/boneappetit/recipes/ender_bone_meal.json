@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "boneappetit:bone_meal",
+	"result": {"item": "ender_bone_meal", "count": 8},
+	"pattern": [
+		"BBB",
+		"BWB",
+		"BBB"
+	],
+	"key": {
+		"B": {"item": "minecraft:dye", "data": 15},
+		"W": {"item": "minecraft:ender_pearl"}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "boneappetit:items/fiery_bone_meal"
+	}
+}

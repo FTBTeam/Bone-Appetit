@@ -1,1 +1,1 @@
-# Bone-Appetit
+# Bone Appetit [![](http://cf.way2muchnoise.eu/bone-appetit.svg)](https://minecraft.curseforge.com/projects/bone-appetit) [![](http://cf.way2muchnoise.eu/versions/bone-appetit.svg)](https://minecraft.curseforge.com/projects/bone-appetit)
