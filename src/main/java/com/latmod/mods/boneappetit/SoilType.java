@@ -9,8 +9,8 @@ import net.minecraft.init.Blocks;
 public enum SoilType
 {
 	SAND(Blocks.SAND.getDefaultState(), "tile.sand.name"),
-	SOUL_SAND(Blocks.SOUL_SAND.getDefaultState(), "tile.soulSand.name"),
-	END_STONE(Blocks.END_STONE.getDefaultState(), "tile.endStone.name");
+	SOUL_SAND(Blocks.SOUL_SAND.getDefaultState(), "tile.hellsand.name"),
+	END_STONE(Blocks.END_STONE.getDefaultState(), "tile.whiteStone.name");
 
 	public final IBlockState blockState;
 	public final String nameKey;
